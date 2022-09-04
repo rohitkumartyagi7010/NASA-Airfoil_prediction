@@ -1,1 +1,1 @@
-# NASA-Airfoil_prediction
+# NASA-Airfoil Self-Noise Predection
